@@ -1,0 +1,2 @@
+rootProject.name = 'quest-mod-file-storage'
+include ':app'
